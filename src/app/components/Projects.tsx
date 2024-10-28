@@ -28,7 +28,7 @@
 // export default Projects;
 
 // import { motion } from 'framer-motion';
-import { img } from 'framer-motion/client';
+// import { img } from 'framer-motion/client';
 
 // const projects = [
 //   { name: 'Project 1', description: 'This is an awesome project', link: '#',img:'/checktapak.png' },
@@ -244,6 +244,7 @@ import { img } from 'framer-motion/client';
 
 
 
+/* eslint-disable @next/next/no-img-element */
 
 
 import { motion } from 'framer-motion';

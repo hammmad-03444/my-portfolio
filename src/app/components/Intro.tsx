@@ -76,7 +76,7 @@ const Intro = () => {
             className="mb-8 md:mb-0"
           >
       <h1 className="text-5xl font-bold text-white mb-4">
-        Hi, I'm <span className="text-yellow-300">Muhammad Hammad Khan</span>
+        Hi, I&apos;m <span className="text-yellow-300">Muhammad Hammad Khan</span>
       </h1>
       <div className="text-3xl text-yellow-200">
         <Typewriter

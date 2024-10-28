@@ -1,6 +1,6 @@
 'use client'
 import React from 'react';
-import { motion } from 'framer-motion';
+// import { motion } from 'framer-motion';
 import Intro from './components/Intro';
 import About from './components/About';
 import Projects from './components/Projects';
